@@ -1,4 +1,4 @@
-### Hi there 👋
+### 어랏 이건 머지 👋
 
 <!--
 **pikamonvvs/pikamonvvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
