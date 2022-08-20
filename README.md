@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello%20world!&fontSize=50&animation=fadeIn&fontAlign=80&fontAlignY=15&rotate=15)
+![header](https://capsule-render.vercel.app/api?type=slice&color=42564F&fontColor=BFEA6A&height=200&section=header&text=Hello%20world!&fontSize=50&animation=fadeIn&fontAlign=80&fontAlignY=15&rotate=15)
 
 ### 🍀 Introduction</center>
 
